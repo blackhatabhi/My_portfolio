@@ -1,9 +1,9 @@
 # My portfolio
 
 ## Hey..I am Abhinav Kumar form <b>PDM University</b> (2nd year btech computer science student).I did my schooling from <b>JAIN BHARTI MODEL SCHOOL </b> . I had learnt programming  from <b>CODING BLOCKS</b></p>
-    
-### To set up this project you just have to clone the file and double click on index.html
 
+### To set up this project you just have to clone the file and double click on index.html
+<br>
 ## Its Looks like ❤ 
 <br>
 <img src = "/dist/img/sc2.png">
