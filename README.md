@@ -4,11 +4,11 @@
     
 ### To set up this project you just have to clone the file and double click on index.html
 
-## Its Looks like ❤ :-
-<br>
-<img src = "/dist/img/sc1.png">
+## Its Looks like ❤  :-
 <br>
 <img src = "/dist/img/sc2.png">
+<br>
+<img src = "/dist/img/sc1.png">
 <br>
 <img src = "/dist/img/sc3.png">
 <br>
