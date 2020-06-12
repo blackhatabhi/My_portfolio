@@ -5,16 +5,16 @@
 ### To set up this project you just have to clone the file and double click on index.html
 
 ## Its Looks like ❤ :-
-
-<img src = "/dist/img/sc1">
 <br>
-<img src = "/dist/img/sc2">
+<img src = "/dist/img/sc1.png">
 <br>
-<img src = "/dist/img/sc3">
+<img src = "/dist/img/sc2.png">
 <br>
-<img src = "/dist/img/sc4">
+<img src = "/dist/img/sc3.png">
 <br>
-<img src = "/dist/img/sc5">
+<img src = "/dist/img/sc4.png">
+<br>
+<img src = "/dist/img/sc5.png">
 <br>
 
 # IT is live in : <a herf = "https://festive-cray-93abf9.netlify.app/">https://festive-cray-93abf9.netlify.app/</a>
