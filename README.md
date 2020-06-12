@@ -4,7 +4,7 @@
     
 ### To set up this project you just have to clone the file and double click on index.html
 
-## Its Looks like ❤  :-
+## Its Looks like ❤ 
 <br>
 <img src = "/dist/img/sc2.png">
 <br>
@@ -17,4 +17,4 @@
 <img src = "/dist/img/sc5.png">
 <br>
 
-# IT is live in : <a herf = "https://festive-cray-93abf9.netlify.app/">https://festive-cray-93abf9.netlify.app/</a>
+# My Portfolio is online at : <a herf = "https://festive-cray-93abf9.netlify.app/">https://festive-cray-93abf9.netlify.app/</a>
