@@ -1,14 +1,13 @@
-var express = require('express')
-const  app = express()
-const http = require('http').Server(app)
 
-
-app.use(express.static('public'))
-
-app.get('/', function (req, res) {
-    res.sendFile(__dirname + '/public')
+var express = require('express'),
+    app = express(),
+    server = require('http').createServer(app)
+server.listen(process.env.PORT || 4545 , () => {
+  console.log('server started on http://localhost:4545')
 });
+app.use('/', express.static(__dirname + '/public'));
 
-http.listen(process.env.PORT || 4343, function () {
-    console.log(`server started on http://localhost:4343`)
+
+app.get('/', function(req, res){
+  res.sendFile(__dirname + '/index.html')
 });
