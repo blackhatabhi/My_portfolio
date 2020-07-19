@@ -7,15 +7,15 @@
 
 ## Its Looks like ❤ 
 <br>
-<img src = "/dist/img/sc2.png">
+<img src = "/public/dist/img/sc2.png">
 <br>
-<img src = "/dist/img/sc1.png">
+<img src = "/public/dist/img/sc1.png">
 <br>
-<img src = "/dist/img/sc3.png">
+<img src = "/public/dist/img/sc3.png">
 <br>
-<img src = "/dist/img/sc4.png">
+<img src = "/public/dist/img/sc4.png">
 <br>
-<img src = "/dist/img/sc5.png">
+<img src = "/public/dist/img/sc5.png">
 <br>
 
 # My Portfolio is online at : <a herf = "https://festive-cray-93abf9.netlify.app/">https://festive-cray-93abf9.netlify.app/</a>
